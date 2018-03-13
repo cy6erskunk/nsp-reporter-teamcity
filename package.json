@@ -1,7 +1,7 @@
 {
   "name": "nsp-reporter-teamcity",
   "version": "0.1.0",
-  "description": "nsp (Node Security Project) reporter for teamcity",
+  "description": "nsp (Node Security Project) reporter for TeamCity",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +17,7 @@
     "url": "git+https://github.com/cy6erskunk/nsp-reporter-teamcity/"
   },
   "author": "Igor Shevchenko",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "teamcity-service-messages": "^0.1.9"
   }

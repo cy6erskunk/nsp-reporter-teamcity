@@ -1,10 +1,8 @@
-const checkSuccess = (result, args) => {
-  console.log('success', result, args)
-}
 const tsm = require('teamcity-service-messages')
 
-exports.success = () => console.log('foo');
-exports.error = () => console.log('err');
+exports.success = () => 'success';
+exports.error = (error, args) =>  console.error(error,
+  args.verbose && JSON.stringify(args) || '');
 
 exports.check = {};
 exports.check.success = (result, args) => {

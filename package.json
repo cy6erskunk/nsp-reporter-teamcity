@@ -4,7 +4,7 @@
   "description": "nsp (Node Security Project) reporter for TeamCity",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "lint": "eslint .",
     "release": "standard-version"
   },
@@ -26,9 +26,11 @@
   "devDependencies": {
     "@jetbrains/eslint-config": "4.0.2",
     "babel-eslint": "8.2.2",
+    "babel-preset-env": "1.6.1",
     "eslint": "4.19.1",
     "eslint-config-prettier": "2.9.0",
     "eslint-plugin-prettier": "2.6.0",
+    "jest": "22.4.3",
     "prettier": "1.11.1",
     "standard-version": "4.3.0"
   }

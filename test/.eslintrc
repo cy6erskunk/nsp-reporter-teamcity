@@ -2,5 +2,16 @@
   "env": {
     "jest": true,
     "jasmine": true
+  },
+  "rules": {
+    "no-magic-numbers": [
+      "error",
+      {
+        "ignore": [
+          1,
+          2
+        ]
+      }
+    ]
   }
 }

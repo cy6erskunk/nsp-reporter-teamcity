@@ -1,6 +1,6 @@
 {
   "name": "nsp-reporter-teamcity",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "nsp (Node Security Project) reporter for TeamCity",
   "main": "src/index.js",
   "scripts": {

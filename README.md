@@ -1,4 +1,8 @@
 ## nsp reporter for TeamCity
+[![Build Status](https://travis-ci.org/cy6erskunk/nsp-reporter-teamcity.svg?branch=master)](https://travis-ci.org/cy6erskunk/nsp-reporter-teamcity)
+[![NPM version](https://img.shields.io/npm/v/nsp-reporter-teamcity.svg)](https://www.npmjs.com/package/nsp-reporter-teamcity)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 
 Generates TeamCity inspections from [nsp][nsp] report
 ![Demo report](tc-ui.png)

@@ -24,7 +24,7 @@
     "teamcity-service-messages": "^0.1.9"
   },
   "devDependencies": {
-    "@jetbrains/eslint-config": "4.0.3",
+    "@jetbrains/eslint-config": "4.0.5",
     "babel-eslint": "10.0.1",
     "babel-preset-env": "1.7.0",
     "eslint": "5.12.0",

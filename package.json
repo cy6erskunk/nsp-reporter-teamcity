@@ -24,15 +24,15 @@
     "teamcity-service-messages": "^0.1.9"
   },
   "devDependencies": {
-    "@jetbrains/eslint-config": "4.0.3",
+    "@jetbrains/eslint-config": "4.0.5",
     "babel-eslint": "10.0.1",
     "babel-preset-env": "1.7.0",
-    "eslint": "5.12.0",
-    "eslint-config-prettier": "3.4.0",
+    "eslint": "5.14.1",
+    "eslint-config-prettier": "4.1.0",
     "eslint-plugin-prettier": "3.0.1",
-    "jest": "23.6.0",
-    "prettier": "1.15.3",
-    "standard-version": "4.4.0"
+    "jest": "24.1.0",
+    "prettier": "1.16.4",
+    "standard-version": "5.0.0"
   },
   "jest": {
     "testURL": "http://localhost"

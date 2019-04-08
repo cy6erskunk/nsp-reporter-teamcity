@@ -1,3 +1,7 @@
+### This package is deprecated since NSP was shut down in September 2018 (see [blogpost](https://blog.npmjs.org/post/175511531085/the-node-security-platform-service-is-shutting) for the details).Use [npm-audit-reporter-teamcity](https://github.com/cy6erskunk/npm-audit-reporter-teamcity) instead.
+
+---
+
 ## nsp reporter for TeamCity
 [![Build Status](https://travis-ci.org/cy6erskunk/nsp-reporter-teamcity.svg?branch=master)](https://travis-ci.org/cy6erskunk/nsp-reporter-teamcity)
 [![NPM version](https://img.shields.io/npm/v/nsp-reporter-teamcity.svg)](https://www.npmjs.com/package/nsp-reporter-teamcity)
